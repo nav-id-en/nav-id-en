@@ -80,7 +80,6 @@ profile:
 class AcademicProfile:
     def __init__(self):
         self.university = "Sharif University of Technology"
-        self.gpa = 19.75  # out of 20
         self.field = "Electrical Engineering"
         self.focus_areas = [
             "Systems Design & Analysis",
