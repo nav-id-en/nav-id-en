@@ -95,13 +95,77 @@ class AcademicProfile:
 
 <br>
 
-## 📈 GitHub Analytics
+## 📈 GitHub Analytics & Tech Stack
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=nav-id-en&show_icons=true&theme=tokyonight&count_private=true&border_color=1E90FF&title_color=1E90FF&icon_color=4169E1&bg_color=0D1117"/>
+### 📊 Repository Statistics
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=nav-id-en&show_icons=true&theme=radical&count_private=true&border_color=1E90FF&title_color=1E90FF&icon_color=4169E1&bg_color=0D1117&hide_border=true"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nav-id-en&layout=compact&theme=tokyonight&border_color=1E90FF&title_color=1E90FF&bg_color=0D1117"/>
+### 💻 Most Used Technologies
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nav-id-en&layout=compact&theme=radical&border_color=1E90FF&title_color=1E90FF&bg_color=0D1117&hide_border=true&langs_count=8"/>
+
+</div>
+
+<br>
+
+## 🛠️ Project Technology Distribution
+
+<div align="center">
+
+### 📊 **Primary Software & Tools Used**
+
+| 🔧 **Software** | 📈 **Usage %** | 🎯 **Project Type** |
+|:---:|:---:|:---:|
+| ![MATLAB](https://img.shields.io/badge/MATLAB-35%25-0076A8?style=flat-square&logo=mathworks) | **35%** | Signal Processing, EEG Analysis |
+| ![Python](https://img.shields.io/badge/Python-30%25-306998?style=flat-square&logo=python) | **30%** | Data Analysis, ML Projects |
+| ![LTspice](https://img.shields.io/badge/LTspice-20%25-1E90FF?style=flat-square&logo=circuitverse) | **20%** | Circuit Design, Simulation |
+| ![Proteus](https://img.shields.io/badge/Proteus-10%25-4169E1?style=flat-square&logo=microchip) | **10%** | PCB Design, Electronics |
+| ![C/Assembly](https://img.shields.io/badge/C%2FAssembly-5%25-6495ED?style=flat-square&logo=c) | **5%** | System Programming |
+
+</div>
+
+<br>
+
+## 🎯 Technology Expertise Breakdown
+
+```python
+tech_stack = {
+    "signal_processing": {
+        "primary": ["MATLAB", "EEGLAB", "Simulink"],
+        "projects": ["EEG Analysis", "PAC Studies", "System Modeling"],
+        "proficiency": "Advanced"
+    },
+    "circuit_design": {
+        "primary": ["LTspice", "Proteus", "Electronics"],
+        "projects": ["OpAmp Design", "Analog Circuits", "PCB Layout"],
+        "proficiency": "Advanced"
+    },
+    "data_science": {
+        "primary": ["Python", "NumPy", "Matplotlib"],
+        "projects": ["Data Analysis", "Statistical Modeling", "Visualization"],
+        "proficiency": "Intermediate-Advanced"
+    },
+    "programming": {
+        "primary": ["Python", "C", "MIPS Assembly"],
+        "projects": ["Algorithm Development", "System Programming"],
+        "proficiency": "Intermediate"
+    }
+}
+```
+
+<br>
+
+## 📊 Project Portfolio Highlights
+
+<div align="center">
+
+### 🔬 **Recent Project Technologies**
+
+[![MATLAB](https://img.shields.io/badge/🧠_EEG%20Analysis-MATLAB-0076A8?style=for-the-badge&logoColor=white)](https://github.com/nav-id-en)
+[![LTspice](https://img.shields.io/badge/⚡_OpAmp%20Design-LTspice-1E90FF?style=for-the-badge&logoColor=white)](https://github.com/nav-id-en)
+[![Python](https://img.shields.io/badge/📊_Data%20Analysis-Python-306998?style=for-the-badge&logoColor=white)](https://github.com/nav-id-en)
+[![Proteus](https://img.shields.io/badge/🔌_Circuit%20Sim-Proteus-4169E1?style=for-the-badge&logoColor=white)](https://github.com/nav-id-en)
 
 </div>
 
@@ -109,7 +173,8 @@ class AcademicProfile:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nav-id-en&theme=tokyo-night&bg_color=0D1117&color=1E90FF&line=4169E1&point=6495ED&area=true&hide_border=true" alt="GitHub Activity Graph" />
+### 📈 **Contribution Activity**
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nav-id-en&theme=radical&background=0D1117&border=1E90FF&stroke=1E90FF&ring=4169E1&fire=6495ED&currStreakLabel=1E90FF&sideLabels=87CEEB&dates=B0E0E6&hide_border=true" alt="GitHub Streak Stats" />
 
 </div>
 
@@ -127,5 +192,25 @@ class AcademicProfile:
 
 <br>
 
+## 💭 Engineering Philosophy
+
+<div align="center">
+
+```
+"Transforming complex systems into elegant solutions through 
+ technical precision and analytical thinking"
+```
+
+**🚀 Systems Design • 📡 Signal Processing • 📊 Data Analytics**
+
+</div>
+
+<br>
+
+<div align="center">
+
+### ⚡ **Engineering Excellence Through Innovation** ⚡
+
+![Profile Views](https://komarev.com/ghpvc/?username=nav-id-en&color=1E90FF&style=flat-square&label=Profile+Views)
 
 </div>
