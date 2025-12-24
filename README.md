@@ -1,98 +1,68 @@
-<div align="center">
+<!--
+README.md for GitHub Profile
+Theme: Sky Blue | Minimal Icons | Professional & Clean
+-->
 
-# Operational Amplifier Design & Analysis
+<h1 align="center" style="color:#1E90FF;">Hi, I'm [Navid Najafi] 👋</h1>
+<h3 align="center" style="color:#1E90FF;">Electrical Engineering Student | Systems & Analytics Enthusiast | Sharif University of Technology</h3>
 
-### Advanced CMOS/Bipolar Hybrid Architecture with Data-Driven Optimization
+---
 
-<br>
+## 🌌 About Me
+- 🎓 Currently pursuing **Electrical Engineering** at **Sharif University of Technology**  
+- 💡 Passionate about **systems design, signal processing, and analytical problem-solving**  
+- 📈 Interested in **data-driven insights**, **tech projects**, and **international opportunities**  
+- ⚡ Strong academic performance with a GPA of **19.75/20**  
+- 🌍 Seeking opportunities to **apply theory to impactful projects**  
 
-[![LTspice](https://img.shields.io/badge/LTspice-XVII-5DADE2?style=flat-square&logo=circuitverse&logoColor=white)](https://github.com)
-[![CMOS](https://img.shields.io/badge/Technology-CMOS%2FBipolar-85C1E9?style=flat-square&logo=microchip&logoColor=white)](https://github.com)
-[![Analysis](https://img.shields.io/badge/Analysis-Performance%20Optimization-AED6F1?style=flat-square&logo=analytics&logoColor=white)](https://github.com)
-[![Supply](https://img.shields.io/badge/Supply-±10V-D6EAF8?style=flat-square&logo=lightning&logoColor=white)](https://github.com)
+---
 
-</div>
+## 🛠 Skills & Tools
 
-<br>
+| Category | Skills |
+|----------|--------|
+| Programming & Scripting | Python, MATLAB, MIPS Assembly, C |
+| Engineering & Systems | Signals & Systems, Electronics, Linear Algebra, Probability & Statistics |
+| Tools & Software | Proteus, EEGLAB, Git/GitHub, MATLAB Simulink |
+| Data & Analysis | EEG Analysis, PAC, Signal Processing, Mathematical Modeling |
 
-## Overview
+---
 
-Comprehensive operational amplifier design project demonstrating systematic analog circuit development from theoretical analysis through simulation validation to performance optimization. The project integrates traditional analog design principles with modern simulation techniques and data analysis methodologies.
+## 🔹 GitHub Stats
 
-<br>
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=react"/>
+</p>
 
-## Technical Implementation
+---
 
-**Phase I: Foundation Analysis**
-- Differential amplifier characterization and modeling
-- Operating point analysis and bias optimization  
-- Multi-section performance validation
+## 📊 GitHub Activity
 
-**Phase II: Complete System Design**
-- Integrated multi-stage amplifier architecture
-- Output stage design and load analysis
-- System-level performance optimization
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+</p>
 
-<br>
+---
 
-## Key Technologies
+## ✨ Connect with Me
 
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/navid-najafi-4183303a0" target="_blank">🔗 LinkedIn</a> &nbsp; | &nbsp;
+  <a href="https://github.com/nav-id-en" target="_blank">💻 GitHub</a> &nbsp; | &nbsp;
+  <a href="mailto:navid_najafi@ee.sharif.edu" target="_blank">✉️ Email</a>
+</p>
 
-| Component | Specification | Application |
-|-----------|---------------|-------------|
-| **NMOS Differential Pairs** | W=100μ, L=1μ | Input stage design |
-| **Bipolar Output Stage** | 2N3904/2N3906 | Power delivery |
-| **Current Biasing** | 1-2mA precision | Operating point control |
-| **Load Characteristics** | 100Ω standard | Performance validation |
+---
 
-</div>
+## 💬 Fun Fact
 
-<br>
+> I love turning complex systems into **elegant solutions**, combining **technical precision** with **analytical thinking**.
 
-## Project Structure
+---
 
-```
-├── phase1/
-│   ├── LTspice_simfiles/         # Simulation schematics and data
-│   ├── simulation_report.pdf     # Phase I analysis results
-│   └── theory_analysis.pdf       # Theoretical foundation
-│
-├── phase2/
-│   ├── Analysis_part1.asc        # Complete amplifier design
-│   ├── Design_part2.asc          # Final implementation
-│   ├── Outputstage.asc           # Output stage characterization
-│   └── report.pdf                # Comprehensive analysis
-```
-
-<br>
-
-## Performance Metrics
-
-**Amplifier Characteristics**
-- Differential gain analysis and optimization
-- Common-mode rejection ratio (CMRR) evaluation
-- Frequency response characterization
-- Load regulation and efficiency analysis
-
-**Simulation Validation**
-- Transient response analysis
-- AC performance evaluation  
-- Operating point verification
-- Stability and compensation analysis
-
-<br>
-
-## Engineering Methodology
-
-The project follows a structured design approach integrating theoretical analysis, simulation validation, and performance optimization through iterative refinement and data-driven decision making.
-
-<br>
-
-<div align="center">
-
-**Electrical Engineering • Machine Learning • Data Science**
-
-*Advancing analog design through systematic analysis and optimization*
-
-</div>
+<style>
+img {
+  border-radius: 12px;
+}
+</style>
