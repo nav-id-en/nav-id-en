@@ -1,68 +1,113 @@
-<!--
-README.md for GitHub Profile
-Theme: Sky Blue | Minimal Icons | Professional & Clean
--->
+<div align="center">
 
-<h1 align="center" style="color:#1E90FF;">Hi, I'm [Navid Najafi] 👋</h1>
-<h3 align="center" style="color:#1E90FF;">Electrical Engineering Student | Systems & Analytics Enthusiast | Sharif University of Technology</h3>
+# Hi, I'm Navid Najafi
 
----
+### Electrical Engineering Student | Systems & Analytics Enthusiast | Sharif University of Technology
 
-## 🌌 About Me
-- 🎓 Currently pursuing **Electrical Engineering** at **Sharif University of Technology**  
-- 💡 Passionate about **systems design, signal processing, and analytical problem-solving**  
-- 📈 Interested in **data-driven insights**, **tech projects**, and **international opportunities**  
-- ⚡ Strong academic performance with a GPA of **19.75/20**  
-- 🌍 Seeking opportunities to **apply theory to impactful projects**  
+<br>
 
----
+[![University](https://img.shields.io/badge/Sharif-University%20of%20Technology-5DADE2?style=flat-square&logo=university&logoColor=white)](https://github.com)
+[![GPA](https://img.shields.io/badge/GPA-19.75%2F20-85C1E9?style=flat-square&logo=academic&logoColor=white)](https://github.com)
+[![Engineering](https://img.shields.io/badge/Electrical-Engineering-AED6F1?style=flat-square&logo=lightning&logoColor=white)](https://github.com)
+[![Analytics](https://img.shields.io/badge/Systems-Analytics-D6EAF8?style=flat-square&logo=analytics&logoColor=white)](https://github.com)
 
-## 🛠 Skills & Tools
+</div>
 
-| Category | Skills |
-|----------|--------|
-| Programming & Scripting | Python, MATLAB, MIPS Assembly, C |
-| Engineering & Systems | Signals & Systems, Electronics, Linear Algebra, Probability & Statistics |
-| Tools & Software | Proteus, EEGLAB, Git/GitHub, MATLAB Simulink |
-| Data & Analysis | EEG Analysis, PAC, Signal Processing, Mathematical Modeling |
+<br>
 
----
+## About Me
 
-## 🔹 GitHub Stats
+Electrical Engineering student at Sharif University of Technology with strong academic performance and passion for systems design, signal processing, and analytical problem-solving. Focused on applying theoretical knowledge to impactful projects and seeking international opportunities for growth and collaboration.
 
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=react"/>
-</p>
+<br>
 
----
+## Technical Skills & Expertise
 
-## 📊 GitHub Activity
+**Programming & Development**
+- Python for data analysis and machine learning applications
+- MATLAB for signal processing and system modeling
+- MIPS Assembly and C for low-level programming
+- Git/GitHub for version control and collaboration
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
-</p>
+**Engineering & Systems**
+- Signals & Systems analysis and design
+- Electronics circuit design and analysis
+- Linear Algebra and advanced mathematics
+- Probability & Statistics for data-driven insights
 
----
+**Specialized Tools**
+- Proteus for circuit simulation and PCB design
+- EEGLAB for biomedical signal analysis
+- MATLAB Simulink for system modeling
+- LTspice for analog circuit simulation
 
-## ✨ Connect with Me
+<br>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/navid-najafi-4183303a0" target="_blank">🔗 LinkedIn</a> &nbsp; | &nbsp;
-  <a href="https://github.com/nav-id-en" target="_blank">💻 GitHub</a> &nbsp; | &nbsp;
-  <a href="mailto:navid_najafi@ee.sharif.edu" target="_blank">✉️ Email</a>
-</p>
+## Technical Expertise
 
----
+<div align="center">
 
-## 💬 Fun Fact
+| Domain | Technologies | Applications |
+|--------|-------------|--------------|
+| **Signal Processing** | MATLAB, Python, EEGLAB | EEG Analysis, PAC, System Modeling |
+| **Circuit Design** | Proteus, LTspice, Electronics | Analog/Digital circuits, Simulation |
+| **Data Analysis** | Python, MATLAB, Statistics | Mathematical modeling, Insights |
+| **Programming** | Python, C, MIPS Assembly | Algorithm development, Implementation |
 
-> I love turning complex systems into **elegant solutions**, combining **technical precision** with **analytical thinking**.
+</div>
 
----
+<br>
 
-<style>
-img {
-  border-radius: 12px;
-}
-</style>
+## Academic Excellence
+
+**Current Performance**
+- GPA: 19.75/20 at Sharif University of Technology
+- Strong foundation in electrical engineering fundamentals
+- Focus on systems design and analytical problem-solving
+- Active engagement in theoretical and practical applications
+
+**Research Interests**
+- Data-driven insights and analytics
+- Signal processing and system optimization
+- International collaboration opportunities
+- Technology project development and implementation
+
+<br>
+
+## GitHub Statistics
+
+<div align="center">
+
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=nav-id-en&show_icons=true&theme=react&count_private=true&border_color=5DADE2&title_color=5DADE2&icon_color=85C1E9"/>
+
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nav-id-en&layout=compact&theme=react&border_color=5DADE2&title_color=5DADE2"/>
+
+</div>
+
+<br>
+
+## Professional Approach
+
+*"Transforming complex systems into elegant solutions through technical precision and analytical thinking. Committed to bridging theoretical knowledge with practical applications for meaningful impact."*
+
+<br>
+
+## Connect & Collaborate
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-5DADE2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navid-najafi-4183303a0)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-85C1E9?style=flat-square&logo=github&logoColor=white)](https://github.com/nav-id-en)
+[![Email](https://img.shields.io/badge/Email-Contact-AED6F1?style=flat-square&logo=gmail&logoColor=white)](mailto:navid_najafi@ee.sharif.edu)
+
+</div>
+
+<br>
+
+<div align="center">
+
+**Advancing Engineering Through Innovation**
+
+*Systems Design • Signal Processing • Data Analytics*
+
+</div>
