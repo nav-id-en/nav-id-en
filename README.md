@@ -99,11 +99,11 @@ class AcademicProfile:
 
 <div align="center">
 
-### 📊 Repository Statistics
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=nav-id-en&show_icons=true&theme=radical&count_private=true&border_color=1E90FF&title_color=1E90FF&icon_color=4169E1&bg_color=0D1117&hide_border=true"/>
+### � **Roepository Statistics**
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=nav-id-en&show_icons=true&theme=blue-green&count_private=true&border_color=1E90FF&title_color=1E90FF&icon_color=4169E1&bg_color=0,0D1117,1a1a2e&hide_border=true"/>
 
-### 💻 Most Used Technologies
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nav-id-en&layout=compact&theme=radical&border_color=1E90FF&title_color=1E90FF&bg_color=0D1117&hide_border=true&langs_count=8"/>
+### 💻 **Most Used Technologies**
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nav-id-en&layout=compact&theme=blue-green&border_color=1E90FF&title_color=1E90FF&bg_color=0,0D1117,1a1a2e&hide_border=true&langs_count=8"/>
 
 </div>
 
@@ -113,68 +113,87 @@ class AcademicProfile:
 
 <div align="center">
 
-### 📊 **Primary Software & Tools Used**
+### 📊 **Primary Software & Tools Used** 🎯
 
-| 🔧 **Software** | 📈 **Usage %** | 🎯 **Project Type** |
-|:---:|:---:|:---:|
-| ![MATLAB](https://img.shields.io/badge/MATLAB-35%25-0076A8?style=flat-square&logo=mathworks) | **35%** | Signal Processing, EEG Analysis |
-| ![Python](https://img.shields.io/badge/Python-30%25-306998?style=flat-square&logo=python) | **30%** | Data Analysis, ML Projects |
-| ![LTspice](https://img.shields.io/badge/LTspice-20%25-1E90FF?style=flat-square&logo=circuitverse) | **20%** | Circuit Design, Simulation |
-| ![Proteus](https://img.shields.io/badge/Proteus-10%25-4169E1?style=flat-square&logo=microchip) | **10%** | PCB Design, Electronics |
-| ![C/Assembly](https://img.shields.io/badge/C%2FAssembly-5%25-6495ED?style=flat-square&logo=c) | **5%** | System Programming |
+| 🔧 **Software** | 📈 **Usage %** | 🎯 **Project Type** | ⭐ **Expertise** |
+|:---:|:---:|:---:|:---:|
+| ![MATLAB](https://img.shields.io/badge/🧮_MATLAB-35%25-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) | **📊 35%** | 🧠 Signal Processing, 📡 EEG Analysis | ⭐⭐⭐⭐⭐ |
+| ![Python](https://img.shields.io/badge/🐍_Python-30%25-306998?style=for-the-badge&logo=python&logoColor=white) | **📈 30%** | 📊 Data Analysis, 🤖 ML Projects | ⭐⭐⭐⭐⭐ |
+| ![LTspice](https://img.shields.io/badge/⚡_LTspice-20%25-1E90FF?style=for-the-badge&logo=circuitverse&logoColor=white) | **🔌 20%** | ⚡ Circuit Design, 🔬 Simulation | ⭐⭐⭐⭐ |
+| ![Proteus](https://img.shields.io/badge/🔌_Proteus-10%25-4169E1?style=for-the-badge&logo=microchip&logoColor=white) | **📱 10%** | 🔧 PCB Design, 💡 Electronics | ⭐⭐⭐ |
+| ![C](https://img.shields.io/badge/⚙️_C%2FAssembly-5%25-6495ED?style=for-the-badge&logo=c&logoColor=white) | **💻 5%** | 🖥️ System Programming | ⭐⭐⭐ |
 
 </div>
 
 <br>
 
-## 🎯 Technology Expertise Breakdown
+## 🎯 Technology Expertise Breakdown 🚀
 
 ```python
-tech_stack = {
-    "signal_processing": {
-        "primary": ["MATLAB", "EEGLAB", "Simulink"],
-        "projects": ["EEG Analysis", "PAC Studies", "System Modeling"],
-        "proficiency": "Advanced"
+🔬 tech_stack = {
+    "🧠 signal_processing": {
+        "🛠️ primary": ["📊 MATLAB", "🧠 EEGLAB", "🔄 Simulink"],
+        "🎯 projects": ["📡 EEG Analysis", "🔬 PAC Studies", "📈 System Modeling"],
+        "⭐ proficiency": "🚀 Advanced"
     },
-    "circuit_design": {
-        "primary": ["LTspice", "Proteus", "Electronics"],
-        "projects": ["OpAmp Design", "Analog Circuits", "PCB Layout"],
-        "proficiency": "Advanced"
+    "⚡ circuit_design": {
+        "🛠️ primary": ["⚡ LTspice", "🔌 Proteus", "💡 Electronics"],
+        "🎯 projects": ["🔬 OpAmp Design", "⚡ Analog Circuits", "📱 PCB Layout"],
+        "⭐ proficiency": "🚀 Advanced"
     },
-    "data_science": {
-        "primary": ["Python", "NumPy", "Matplotlib"],
-        "projects": ["Data Analysis", "Statistical Modeling", "Visualization"],
-        "proficiency": "Intermediate-Advanced"
+    "📊 data_science": {
+        "🛠️ primary": ["🐍 Python", "🔢 NumPy", "📈 Matplotlib"],
+        "🎯 projects": ["📊 Data Analysis", "📈 Statistical Modeling", "🎨 Visualization"],
+        "⭐ proficiency": "🔥 Intermediate-Advanced"
     },
-    "programming": {
-        "primary": ["Python", "C", "MIPS Assembly"],
-        "projects": ["Algorithm Development", "System Programming"],
-        "proficiency": "Intermediate"
+    "💻 programming": {
+        "🛠️ primary": ["🐍 Python", "⚙️ C", "🖥️ MIPS Assembly"],
+        "🎯 projects": ["🧮 Algorithm Development", "🖥️ System Programming"],
+        "⭐ proficiency": "💪 Intermediate"
     }
 }
 ```
 
 <br>
 
-## 📊 Project Portfolio Highlights
+## 📊 Project Portfolio Highlights 🌟
 
 <div align="center">
 
-### 🔬 **Recent Project Technologies**
+### � **Reccent Project Technologies** ⚡
 
-[![MATLAB](https://img.shields.io/badge/🧠_EEG%20Analysis-MATLAB-0076A8?style=for-the-badge&logoColor=white)](https://github.com/nav-id-en)
-[![LTspice](https://img.shields.io/badge/⚡_OpAmp%20Design-LTspice-1E90FF?style=for-the-badge&logoColor=white)](https://github.com/nav-id-en)
-[![Python](https://img.shields.io/badge/📊_Data%20Analysis-Python-306998?style=for-the-badge&logoColor=white)](https://github.com/nav-id-en)
-[![Proteus](https://img.shields.io/badge/🔌_Circuit%20Sim-Proteus-4169E1?style=for-the-badge&logoColor=white)](https://github.com/nav-id-en)
+[![MATLAB](https://img.shields.io/badge/🧠_EEG%20Analysis-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://github.com/nav-id-en)
+[![LTspice](https://img.shields.io/badge/⚡_OpAmp%20Design-LTspice-1E90FF?style=for-the-badge&logo=circuitverse&logoColor=white)](https://github.com/nav-id-en)
+[![Python](https://img.shields.io/badge/📊_Data%20Analysis-Python-306998?style=for-the-badge&logo=python&logoColor=white)](https://github.com/nav-id-en)
+[![Proteus](https://img.shields.io/badge/🔌_Circuit%20Sim-Proteus-4169E1?style=for-the-badge&logo=microchip&logoColor=white)](https://github.com/nav-id-en)
+
+### 🎯 **Specialized Skills** 🚀
+![Signal Processing](https://img.shields.io/badge/📡_Signal-Processing-FF6B6B?style=flat-square&logoColor=white)
+![EEG Analysis](https://img.shields.io/badge/🧠_EEG-Analysis-4ECDC4?style=flat-square&logoColor=white)
+![Circuit Design](https://img.shields.io/badge/⚡_Circuit-Design-45B7D1?style=flat-square&logoColor=white)
+![Data Science](https://img.shields.io/badge/📊_Data-Science-96CEB4?style=flat-square&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/🤖_Machine-Learning-FFEAA7?style=flat-square&logoColor=white)
+![System Design](https://img.shields.io/badge/🔧_System-Design-DDA0DD?style=flat-square&logoColor=white)
 
 </div>
 
 <br>
 
+## 📈 Alternative GitHub Analytics 🎯
+
 <div align="center">
 
-### 📈 **Contribution Activity**
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nav-id-en&theme=radical&background=0D1117&border=1E90FF&stroke=1E90FF&ring=4169E1&fire=6495ED&currStreakLabel=1E90FF&sideLabels=87CEEB&dates=B0E0E6&hide_border=true" alt="GitHub Streak Stats" />
+### 🔥 **Contribution Streak** ⚡
+<img src="https://streak-stats.demolab.com/?user=nav-id-en&theme=radical&background=0D1117&border=1E90FF&stroke=1E90FF&ring=4169E1&fire=6495ED&currStreakLabel=1E90FF&sideLabels=87CEEB&dates=B0E0E6&hide_border=true" alt="GitHub Streak Stats" />
+
+### 🏆 **GitHub Trophies** 🌟
+<img src="https://github-profile-trophy.vercel.app/?username=nav-id-en&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
+
+### 📊 **Contribution Graph** 🎯
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=nav-id-en&theme=react-dark&bg_color=0D1117&color=1E90FF&line=4169E1&point=6495ED&area=true&hide_border=true" alt="Contribution Graph" />
+
+### 🎨 **Language Stats Donut** 📈
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nav-id-en&layout=donut&theme=radical&bg_color=0D1117&title_color=1E90FF&text_color=87CEEB&hide_border=true" alt="Language Stats" />
 
 </div>
 
