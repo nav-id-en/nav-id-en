@@ -127,25 +127,5 @@ class AcademicProfile:
 
 <br>
 
-## 💭 Engineering Philosophy
-
-<div align="center">
-
-```
-"Transforming complex systems into elegant solutions through 
- technical precision and analytical thinking"
-```
-
-**🚀 Systems Design • 📡 Signal Processing • 📊 Data Analytics**
-
-</div>
-
-<br>
-
-<div align="center">
-
-### ⚡ **Engineering Excellence Through Innovation** ⚡
-
-![Profile Views](https://komarev.com/ghpvc/?username=nav-id-en&color=1E90FF&style=flat-square&label=Profile+Views)
 
 </div>
